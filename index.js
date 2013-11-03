@@ -12,5 +12,5 @@ require('http').createServer(function (request, response) {
     //
     file.serve(request, response);
   }).resume();
-}).listen(8080);
-console.log(8080);
+}).listen(process.env.PORT || 8080);
+console.log(process.env.PORT || 8080);
