@@ -1,0 +1,50 @@
+body {
+  padding-top: 20px;
+}
+
+.footer {
+  border-top: 1px solid #eee;
+  margin-top: 40px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .masthead,
+  .marketing,
+  .footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.customers {
+  padding-bottom: 48px;
+}
+
+.contact {
+  position: absolute;
+  padding: 33px 0px;
+  margin: 50px;
+  width: 75%;
+}
+
+.contact .row .sidepanel {
+  border-radius: 6px 6px 6px 6px;
+  background-color: #fff;
+  padding: 30px 15px;
+}

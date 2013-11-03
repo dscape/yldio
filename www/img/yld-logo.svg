@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="175px" height="175px" viewBox="0 0 175 175" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Yld Logo</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="yld" sketch:type="MSLayerGroup" transform="translate(0.000000, 1.000000)" stroke="#000000" stroke-width="2">
+            <path d="M164.939453,0.396484375 L80,20.1674575 L82.0300801,148 L162,127.880246 L164.939453,0.396484375 Z M164.939453,0.396484375" id="Panel" fill="#FAE309" sketch:type="MSShapeGroup"></path>
+            <path d="M39.9496302,55.6177529 L37.3030208,25 L17.1929812,25 L0,25 L5.2053976,85.2777345 L62.4309662,101.689849 L62.7386696,133.122877 C62.7386696,133.122891 76.7742783,136.221081 81.1866932,137.195067 L81.1866932,138 C81.1866932,138 100.945991,134.153863 100.945991,134.153847 L101.265743,101.490035 L157.794602,85.2777345 L163,25 L145.807019,25 L125.696979,25 L123.05037,55.6177529 L81.6626687,67.1635882 L39.9496302,55.6177529 Z M39.9496302,55.6177529" id="Y" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
