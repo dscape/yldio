@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="175px" height="175px" viewBox="0 0 175 175" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <title>Yld Logo</title>
+<svg width="176px" height="148px" viewBox="0 0 176 148" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Slice 1</title>
     <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="yld" sketch:type="MSLayerGroup" transform="translate(0.000000, 1.000000)" stroke="#000000" stroke-width="2">
-            <path d="M164.939453,0.396484375 L80,20.1674575 L82.0300801,148 L162,127.880246 L164.939453,0.396484375 Z M164.939453,0.396484375" id="Panel" fill="#FAE309" sketch:type="MSShapeGroup"></path>
-            <path d="M39.9496302,55.6177529 L37.3030208,25 L17.1929812,25 L0,25 L5.2053976,85.2777345 L62.4309662,101.689849 L62.7386696,133.122877 C62.7386696,133.122891 76.7742783,136.221081 81.1866932,137.195067 L81.1866932,138 C81.1866932,138 100.945991,134.153863 100.945991,134.153847 L101.265743,101.490035 L157.794602,85.2777345 L163,25 L145.807019,25 L125.696979,25 L123.05037,55.6177529 L81.6626687,67.1635882 L39.9496302,55.6177529 Z M39.9496302,55.6177529" id="Y" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        <g id="yld-io" sketch:type="MSLayerGroup">
+            <path d="M175.605,0.396 L90.666,20.167 L92.696,148 L172.666,127.881 L175.605,0.396 L175.605,0.396 L175.605,0.396 L175.605,0.396 Z M175.605,0.396" id="Panel_1_" fill="#66C7E2" sketch:type="MSShapeGroup"></path>
+            <g id="Y_1_" transform="translate(0.000000, 24.000000)" fill="#3F8396" sketch:type="MSShapeGroup">
+                <path d="M42.735,33.907 C40.653,33.198 38.798,30.824 38.615,28.632 L36.636,4.986 C36.452,2.794 34.502,1 32.302,1 L21.192,1 L13.192,1 L3.999,1 C1.799,1 0.154,2.793 0.343,4.985 L4.862,57.293 C5.05,59.484 6.936,61.773 9.05,62.381 L58.586,76.587 C60.7,77.193 62.448,79.489 62.47,81.69 L62.699,105.124 C62.72,107.324 64.496,109.512 66.644,109.986 L77.28,112.334 C79.428,112.809 81.186,113.201 81.186,113.208 C81.186,113.215 82.964,112.944 85.139,112.606 L96.991,110.768 C99.166,110.43 100.962,108.355 100.983,106.155 L101.225,81.491 C101.246,79.291 102.995,76.995 105.109,76.388 L153.949,62.381 C156.063,61.774 157.949,59.485 158.137,57.293 L162.655,4.985 C162.843,2.793 161.199,1 158.999,1 L149.806,1 L141.806,1 L130.697,1 C128.497,1 126.547,2.794 126.363,4.986 L124.384,28.632 C124.2,30.824 122.348,33.202 120.267,33.916 L85.446,45.865 C83.365,46.579 79.959,46.583 77.877,45.874 L42.735,33.907 L42.735,33.907 L42.735,33.907 L42.735,33.907 Z M42.735,33.907" id="Shape"></path>
+            </g>
         </g>
     </g>
 </svg>
